@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @0Stella0
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently studying Java & C++.
 - 📫 How to reach me discord: Stella_#1207
 
 <!---
